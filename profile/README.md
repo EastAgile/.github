@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EastAgile/.github/main/profile/assets/eastagile-logo.svg" alt="East Agile" width="220" />
+<img src="https://raw.githubusercontent.com/EastAgile/.github/main/profile/assets/eastagile-logo.png" alt="East Agile" width="220" />
 
 ### GenAI-driven development, engineered the agile way.
 
